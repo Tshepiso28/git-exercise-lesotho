@@ -5,3 +5,4 @@ Adding security to my text file
 
 asdasadsadsd
 Some other emergency fix
+Removes unwanted goals from the tracker.
