@@ -6,3 +6,4 @@ Enables modification of existing goals.
 asdasadsadsd
 Some other emergency fix
 Add Goal: Allows users to add new goals to the tracker.
+View Goal: Displays all active goals in a list format.
