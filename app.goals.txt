@@ -2,7 +2,7 @@ Adding straight to develop
 Adding new content to develop
 abc
 Adding security to my text file
-
+Enables modification of existing goals.
 asdasadsadsd
 Some other emergency fix
 Add Goal: Allows users to add new goals to the tracker.
