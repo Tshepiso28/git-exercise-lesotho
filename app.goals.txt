@@ -5,3 +5,4 @@ Adding security to my text file
 
 asdasadsadsd
 Some other emergency fix
+Add Goal: Allows users to add new goals to the tracker.
