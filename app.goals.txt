@@ -5,3 +5,4 @@ Adding security to my text file
 
 asdasadsadsd
 Some other emergency fix
+User Authentication: Ensures only registered users can access the tracker.
