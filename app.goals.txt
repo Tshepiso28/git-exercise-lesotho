@@ -1,1 +1,8 @@
-Displays all active goals in a list format.
+Adding straight to develop
+Adding new content to develop
+abc
+Adding security to my text file
+
+asdasadsadsd
+Some other emergency fix
+View Goal: Displays all active goals in a list format.
